@@ -1,0 +1,6 @@
+        String sourcePath  = "<The source Path> e.g. /path/to/file";
+        String destPath = "<The Destination Path> e.g. /path/to/file";
+        String sftpHost = "The ip address or url of the sftp host e.g. 10.10.10.10";
+        String sftpUser = "SFTP user name to login to the host";
+        Integer sftpPort = "SFTP port e.g. 22";
+        String sftpPassword = "SFTP password";
