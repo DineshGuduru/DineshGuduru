@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dineshvarma Guduru
 - 👀 I’m interested in Data.
 - 🌱 I’m currently learning DataStructures and Algorithms along with Big Data concepts
-- 💞️ I’m looking to collaborate on Scala 
+- 💞️ I’m looking to collaborate on Python and Data Engineering 
 - 📫 How to reach me dineshvarma.guduru@gmail.com 
 
 <!---
